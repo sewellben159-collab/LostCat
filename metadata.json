@@ -1,0 +1,5 @@
+{
+  "name": "LostCat",
+  "description": "The ultimate toolkit for finding lost cats. Generate professional posters, optimized descriptions using Gemini AI, and shareable location maps instantly.",
+  "requestFramePermissions": []
+}
